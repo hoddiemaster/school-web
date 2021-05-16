@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+   background: red;
+}
+.my_nav_bar 
+{
+    top: 100;
+    z-index: 99996;
+    position: relative;
+}
+
+
